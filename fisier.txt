@@ -1,2 +1,4 @@
 Stefan,0755263870,Atoss,test@domeniu.com
 Mihai,0750648816,Continental,test@domeniu.ro
+Paul,0750648816,UVT,paulborbiro@gmail.com
+Alex,0755123123,Hella,test@exemplu.ro
